@@ -1,0 +1,7 @@
+{
+  "name": "viewer",
+  "description": "Ambra Viewer (3.20.7.0)",
+  "author": "Ambra Health",
+  "version": "2.0.0",
+  "main": "main.js"
+}

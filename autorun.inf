@@ -1,0 +1,5 @@
+[autorun]
+action=View Images
+shellexecute=viewer.app/Contents/viewer.exe
+icon=viewer.app/Contents/Ambra.ico
+label=Ambra Viewer
